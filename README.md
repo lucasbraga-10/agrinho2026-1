@@ -5,3 +5,6 @@ Esse é o site que eu fiz para o projeto do Agrinho de 2026. A ideia dele é fal
 * O objetivo principal do Agroforte é conscientizar os produtores rurais sobre a importância da sustentabilidade no campo através do uso prático da tecnologia. A plataforma busca facilitar o cálculo do impacto ecológico gerado por boas práticas agrícolas na gestão de propriedades rurais, exibindo de forma simples a estimativa anual de economia de recursos hídricos e promovendo a acessibilidade digital com recursos visuais adaptáveis para diferentes perfis de usuários.
 ## justificativa
 * A criação desta ferramenta justifica-se pela crescente escassez hídrica e pelos severos desafios climáticos enfrentados pela agricultura moderna, que exigem soluções eficientes de manejo inteligente e controlado da água. Considerando que pequenos e médios produtores muitas vezes carecem de acesso a sistemas complexos de monitoramento ecológico, a plataforma preenche essa lacuna de maneira descomplicada. Além disso, o projeto integra perfeitamente a proposta educacional e ambiental do Concurso Agrinho ao desenvolvimento de habilidades lógicas e tecnológicas dos estudantes, demonstrando que a inovação digital é uma forte aliada da preservação ambiental.
+## Tecnologias Utilizadas
+* chat gpt para criação dos textos 
+* gemini para criar a calculadora 
