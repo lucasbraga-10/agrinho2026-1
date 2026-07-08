@@ -11,3 +11,6 @@ Como eu ainda estou aprendendo, usei o básico de programação para o site carr
 * HTML para montar os textos e a estrutura
 * CSS para arrumar as cores, fontes e o visual
 * JavaScript para deixar a página com um funcionamento mais legal
+## autoral
+* subtitulo
+* texto da calculadora
