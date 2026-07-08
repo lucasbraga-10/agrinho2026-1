@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agroforte - Agrinho 2026</title>
+    <!-- Arquivo de estilos CSS externo -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
+    <!-- Cabeçalho principal com logo e menu -->
     <header>
         <div class="logo">
             <h1>Agro<span>forte</span></h1>
@@ -15,26 +17,32 @@
         <nav>
             <a href="#sobre"> sobre</a>
             <a href="#calculadora"> simulador</a>
+            <!-- Botão para alternar entre modo claro e escuro -->
             <button id="btn-tema">Mudar Tema</button>
         </nav>
     </header>
 
+    <!-- Seção de destaque inicial da página -->
     <section class="hero">
         <h2>Agroforte</h2>
         <p>Descubra como transformamos a agricultura através da tecnologia, resiliência e sustentabilidade no campo.</p>
         <a href="#sobre" class="btn-principal"> saiba mais</a>
     </section>
 
+    <!-- Conteúdo principal do site -->
     <main id="sobre" class="container">
+        <!-- Seção informativa sobre o projeto -->
         <section class="conteudo-principal">
             <h2>1. O que é o Agroforte?</h2>
             <p>O Agroforte representa a união entre a força tradicional do campo e as novas tecnologias sustentáveis. Nosso objetivo é capacitar o produtor rural para enfrentar os desafios climáticos e econômicos modernos, garantindo a segurança alimentar das futuras gerações.</p>
         </section>
 
+        <!-- Seção do formulário simulador -->
         <section id="calculadora" class="card">
             <h3>2. Simulador de Sustentabilidade</h3>
             <p>Insira os dados da propriedade para calcular a estimativa de impacto positivo.</p>
             
+            <!-- Formulário que bloqueia o recarregamento padrão da página -->
             <form id="form-simulador" onsubmit="event.preventDefault();">
                 <div class="campo-formulario">
                     <label for="nome-usuario">nome usuario = </label>
@@ -49,15 +57,18 @@
                 <button type="button" id="btn-calcular"> rodar simulação</button>
             </form>
 
+            <!-- Bloco reservado para exibir a resposta da simulação via Javascript -->
             <div id="resultado-simulacao" class="escondido"></div>
         </section>
     </main>
 
+    <!-- Rodapé com créditos do projeto -->
     <footer>
         <p>Projeto Agroforte. Agrinho 2026.</p>
         <p class="hashtag">#agrinho2026</p>
     </footer>
 
+    <!-- Arquivo script Javascript externo -->
     <script src="script.js"></script>
 </body>
 </html>
