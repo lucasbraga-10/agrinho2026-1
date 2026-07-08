@@ -1,13 +1,7 @@
+# Agrinho2026
 # Projeto Agrinho 2026
 Esse é o site que eu fiz para o projeto do Agrinho de 2026. A ideia dele é falar sobre o que a gente aprendeu, focando bastante na parte de sustentabilidade e em como as coisas no campo funcionam hoje em dia. 
-## O que tem no site
-Na parte do "Sobre", que é o foco principal, eu tentei explicar de um jeito simples a importância de cuidar do meio ambiente e como a tecnologia ajuda as pessoas que trabalham na agricultura. 
-O objetivo do trabalho é:
-* Mostrar ideias de como melhorar a agricultura sem estragar a natureza
-* Ajudar outros alunos a entenderem o assunto de um jeito mais fácil
-* Mostrar algumas soluções simples que podem ser usadas no dia a dia
-## O que eu usei para fazer
-Como eu ainda estou aprendendo, usei o básico de programação para o site carregar direitinho tanto no computador quanto no celular:
-* HTML para montar os textos e a estrutura
-* CSS para arrumar as cores, fontes e o visual
-* JavaScript para deixar a página com um funcionamento mais legal
+## Objetivo
+* O objetivo principal do Agroforte é conscientizar os produtores rurais sobre a importância da sustentabilidade no campo através do uso prático da tecnologia. A plataforma busca facilitar o cálculo do impacto ecológico gerado por boas práticas agrícolas na gestão de propriedades rurais, exibindo de forma simples a estimativa anual de economia de recursos hídricos e promovendo a acessibilidade digital com recursos visuais adaptáveis para diferentes perfis de usuários.
+## justificativa
+* A criação desta ferramenta justifica-se pela crescente escassez hídrica e pelos severos desafios climáticos enfrentados pela agricultura moderna, que exigem soluções eficientes de manejo inteligente e controlado da água. Considerando que pequenos e médios produtores muitas vezes carecem de acesso a sistemas complexos de monitoramento ecológico, a plataforma preenche essa lacuna de maneira descomplicada. Além disso, o projeto integra perfeitamente a proposta educacional e ambiental do Concurso Agrinho ao desenvolvimento de habilidades lógicas e tecnológicas dos estudantes, demonstrando que a inovação digital é uma forte aliada da preservação ambiental.
